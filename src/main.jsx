@@ -6,7 +6,7 @@ import { HashRouter } from 'react-router-dom'
 // import App from './App0805-1'
 import './sass/all.scss'
 // import App from './MyApp'
-import App from './pages/App0902-2-useContext'
+import App from './pages/App0903-useRef-6'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
